@@ -3,6 +3,7 @@ Tools &amp; Mods that I used to make game look more cool, Less Grindy
 
 Installation: Firstly, Copy all files from ModManager into Sekiro's folder where sekiro.exe is present & also make "mods" named folder there.
 Put all files from 'Merged_mods' folder into 'mods'. Those names are case-sensitive and should not be changed .
+NOTE: All the mods here works for Sekiro v1.0.5 So it might work for v1.0.6 as well But won't work for older versions like v1.0.2.
 
 This mods is a merge of following mods : 
 Sakura Arts, 100x coins sell value , Remove annoying sounds , No time for plus( which gives OP Xp boost) , QoL mod Mega Merge ( which itself is a merge of 7+ mods) , Art of Battle.
